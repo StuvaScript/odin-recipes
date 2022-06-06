@@ -7,6 +7,6 @@ After finishing the HTML portion of this project, these are the skills I utilize
 - I incorporated a main index file with links to other pages
 - I downloaded and moved image files using the command line interface
 - I used both types of lists on my pages
-- I practice commenting in my code
+- I practiced commenting in my code
 - I saved, staged, and committed changes often
 - I followed the seven rules of writing a commit message
