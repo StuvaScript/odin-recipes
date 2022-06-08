@@ -20,15 +20,17 @@ img {
 
 /* class selectors */
 
-/* none */
+.subject {
+    text-align: center;
+}
+
+.about-food {
+text-align: center;
+}
 
 /* ID selectors */
 
 #main-links {
     font-size: 20px;
     color: rgb(25, 25, 255);
-}
-
-#subject {
-    text-align: center;
 }
